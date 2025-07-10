@@ -7,7 +7,7 @@
 | MY TECH STACK |
 | :------------ |
 
-[![My Tech Stack](https://mobaicons.com/icons/astro,vue,clerk,css,daisyui,dioxus,zod,electron,elysiajs,expo,fastapi,fastify,flashlist,motion,fusionapp,gin,go,grpc,headlessui,html,i18next,inlang,javascript,kotlin,legend,lua,lynx,mui,mysql,nextjs,nodejs,nuxtjs,pinia,pinia-plugin-persistedstate,zustand,postgresql,nestjs,prisma,react-router,react,reactbits,reactnavigation,redis,redux,remix,rust,salvo,shadcn,tailwindcss,tamagui,tauri,trpc,typescript,unocss,vue-data-ui,vue-vine,threejs,vueuse,zig,qt,preact,hono,nitro?sort)](https://github.com/Artist-MOBAI/MOBAIcons)
+[![My Tech Stack](https://mobaicons.com/icons/astro,vue,clerk,css,daisyui,dioxus,zod,electron,elysiajs,expo,fastapi,fastify,flashlist,motion,fusionapp,gin,go,grpc,headlessui,html,i18next,inlang,javascript,kotlin,legend,lua,lynx,mui,mysql,nextjs,nodejs,nuxtjs,pinia,pinia-plugin-persistedstate,zustand,postgresql,nestjs,prisma,react-router,react,reactbits,reactnavigation,redis,redux,remix,rust,salvo,shadcn,tailwindcss,tamagui,tauri,trpc,typescript,unocss,vue-data-ui,vue-vine,threejs,vueuse,zig,qt,preact,hono,nitro,wails,duckdb,intlayer?sort)](https://github.com/Artist-MOBAI/MOBAIcons)
 
 | MY CURRENT TOOLS |
 | :--------------- |
